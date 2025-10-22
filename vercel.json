@@ -8,8 +8,5 @@
     "api/**/*.ts": {
       "maxDuration": 60
     }
-  },
-  "env": {
-    "NEXT_PUBLIC_DEV_SUPABASE_REDIRECT_URL": "@NEXT_PUBLIC_DEV_SUPABASE_REDIRECT_URL"
   }
 }
